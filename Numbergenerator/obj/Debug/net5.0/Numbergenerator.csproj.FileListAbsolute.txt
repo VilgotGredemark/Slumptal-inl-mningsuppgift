@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.exe
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.deps.json
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.runtimeconfig.json
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.dll
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\ref\Numbergenerator.dll
+C:\Users\Admin\Documents\Numbergenerator\bin\Debug\net5.0\Numbergenerator.pdb
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.AssemblyInfo.cs
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.dll
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\ref\Numbergenerator.dll
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.pdb
+C:\Users\Admin\Documents\Numbergenerator\obj\Debug\net5.0\Numbergenerator.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+Pseudo code - guess the random number
+
+Start
+Generera slumpmässigt tal
+Utmatning: "Jag tänker på ett nummer mellan 1 och 100, försök att gissa vilket!"
+Inmatning: "Tal"
+Räkna antal försök
+Om: för lågt, Utmatning: "För lågt, gissa igen.
+Om: för högt, Utmatning: "För högt, gissa igen!
+Om: matchar med datorns tal, Utmatning: "Du gissade rätt", "Det tog dig x försök att få rätt"
+Slut
